@@ -72,4 +72,3 @@ Grunt is a popular task broker at NodeJS. It is flexible and widely adopted. It 
 * Accelerates the development process and increases the performance of projects 
 * Automate anything with less effort 
 * Reduces the possibility of errors when performing repetitive tasks
-
