@@ -1,28 +1,34 @@
-## Awesome Web Development
-All tools and technologies for web development
+## <center> Awesome Web Development </center>
+---
+<!-- All tools and technologies for web development -->
 
-#### Frontend Technologies
-##### React 
-It's a library developed & maintained by facebook. This library used to develop interactive SPA(Single page applications) & PWA(Progressive web application). 
-###### _Pros_ :
-* Light Weight
-* Fast because of vertual dom*
-* Uses pure JS (JSX)
-* Supports server side rendering
-###### _Cons_ :
-* State Managment is not good
-* Multi route not support by default
-* We have to rely on third party libraries which causes some issue in development
 
-##### Angular 2+ 
-It's a framework and also be considered as a technology developed & maintained by google. it's mainly used to develop interactive SPA(Single page application) / PWA(Progressive web application) and also supports multiple platform like mobile and desktop.
-
-###### _Pros_ :
-* Uses TypeScript which is best for big projects
-* Every component is developed by angular team so we don't have to rely on third party libraries
-* Support dependency injection, RxJS and services
-###### _Cons_ :
-* Bad performance because of it's UI rendering engine but it will gonna fix in Angular 9 with new Envy UI Engine
-* We have to learn new JS Super set TypeScript
-* Heavy Bundle slow loading
-
+# Table of contents
+* [Tools](Tools.md)
+* [Frontend Technologies](Frontend.md)
+    * [React.js](Frontend.md#react.js)
+    * [Angular 2+](Frontend.md#angular-2+)
+    * [Vue.js](Frontend.md#vue.js)
+* [Backend Technologies](Backend.md)
+    * [Node.js](Backend.md#node.js)
+        * [Express.js](Backend.md#express)
+        * [AdonisJS](Backend.md#adonisjs)
+        * [NestJs](Backend.md#nestjs)
+    * [Django](Backend.md#django)
+    * [Flask](Backend.md#flask)
+* [Rest, GraphQl & Soap](RestVSGraphQl.md)
+* [Databases](Database.md)
+    * [Sql vs NoSql](Database.md#sql-vs-nosql)
+* [Cloud Service Providers](CSP.md)
+    * [Aws](CSP.md#aws)
+    * [Google Cloud Platform](CSP.md#google-cloud-platform)
+    * [Microsoft Azure](CSP.md#microsoft-azure)
+    * [Kamatera](CSP.md#kamatera)
+    * [DigitalOcean](CSP.md#digitalocean)
+    * [Rackspace](CSP.md#rackspace)
+    * [Alibaba Cloud](CSP.md#alibabacloud)
+    * [VMware](CSP.md#vmware)
+    * [Salesforce](CSP.md#salesforce)
+    * [Oracle Cloud](CSP.md#oraclecloud)
+* [Domain & Hosting](DomainHosting.md)
+* [Continuous Integration and Continuous Development](CI&CD.md)

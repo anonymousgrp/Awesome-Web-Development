@@ -110,4 +110,3 @@ Oracle Cloud offers innovative and integrated cloud services. It helps you to bu
 * Oracle helps you realize the importance of modern technologies including Artificial intelligence, chatbots, machine learning, and more
 * Offers Next-generation mission-critical data management in the cloud
 * Oracle provides better visibility to unsanctioned apps and protects against sophisticated cyber attacks
-
