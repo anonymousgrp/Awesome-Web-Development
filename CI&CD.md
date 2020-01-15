@@ -10,8 +10,6 @@ Jenkins is the number one open-source project for automating your projects. With
 * Pre-built packages for Unix, Windows, and OS X ensures an easy installation process
 * A web interface that can be used to quickly configure your server
 * Custom plugins for build and source code management, administrative tasks, user interface, and platforms
-* Deployable across a network of machines, improving performance of builds and tests
-* Large community with leading software brands involved in development
 
 ##### Travis
 Travis CI is a CI platform that automates the process of software testing and deployment of applications. It’s built as a platform that integrates with your GitHub projects so that you can start testing your code on the fly. With customers like Facebook, Mozilla, Twitter, Heroku, and others, it’s one of the leading continuous integration tools on the market.
@@ -19,10 +17,8 @@ Travis CI is a CI platform that automates the process of software testing and de
 ###### Features:
 * Free for public open source projected on GitHub
 * As simple as signing up, adding a project, and you can begin testing
-* Bilingual support so your code runs smooth across all versions
 * Automated pull request verification
 * Works with Email, Slack, HipChat and others for easy notifications
-* Extended API and CMD tools for custom management
 
 ##### TeamCity
 TeamCity from Jetbrains is an intelligent CI server solution for software environments of all sizes. With an ample amount of features integrated specifically for developers, you will not be disappointed by the level of performance that TeamCity adds to your team. Built to support modern software stacks and platforms, you can get started within minutes using pre-built installers.
@@ -30,7 +26,6 @@ TeamCity from Jetbrains is an intelligent CI server solution for software enviro
 ###### Features:
 * Great support for Visual Studio; tool versioning, framework testing, code coverage, code analysis, all included without any external scripts
 * Intuitive foundation that can reuse settings so you don’t have to duplicate your code
-* Comprehensive version control for structuring your project
 * Detailed history reports for builds, failures, and any additional changes made
 * TeamCity takes advantage of cloud computing by dynamically scaling out its build agents farm on Amazon EC2, Microsoft Azure, and VMware vSphere
 
