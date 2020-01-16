@@ -29,7 +29,7 @@ TeamCity from Jetbrains is an intelligent CI server solution for software enviro
 * Detailed history reports for builds, failures, and any additional changes made
 * TeamCity takes advantage of cloud computing by dynamically scaling out its build agents farm on Amazon EC2, Microsoft Azure, and VMware vSphere
 
-##### CircleCI
+<!-- ##### CircleCI
 CircleCI provides a state of the art platform for integration and delivery, which has helped hundreds of thousands of teams across the globe to release their code through build automation, test automation, and a comprehensive deployment process. With a modern approach towards the needs of modern software teams, you can rest assured that CircleCI will increase productivity, scale effortlessly, and build with confidence that your team requires.
 
 ###### Feature:
@@ -47,4 +47,4 @@ Codeship is a hosted continuous integration platform that favors efficiency, sim
 * Highly customizable with native support for Docker instances
 * Efficient infrastructure that monitors and scales per your requirements
 * Simple config file management, getting your workflow going quickly
-* Simple UI for setting up workflows, while keeping a history of changes
+* Simple UI for setting up workflows, while keeping a history of changes -->
